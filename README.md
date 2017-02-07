@@ -10,4 +10,4 @@ Just start the `KeyLogger.exe`. That's it.
 
 ## Uninstall
 
-Open the Task Manager, search for `KeyLogger.exe` and kill this process. Then delete `KeyLogger.exe`. That's it.
+Open the Task Manager, search for `KeyLogger.exe` and kill this process. That's it.
